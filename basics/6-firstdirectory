@@ -1,2 +1,2 @@
-#!/bin/bash
-touch my_first_directory
+#!/bin/bas
+mkdir tmp touch my_first_directory
