@@ -1,7 +1,4 @@
 <<<<<<< HEAD
 #!/bin/bash 
-chown betty
-=======
-#!/bin/bash
-chown betty hello 
->>>>>>> refs/remotes/origin/main
+chown betty hello
+
