@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${a..z} | grep -v °° | tr " " "\n" | cut -1 -65
+echo {a..z}{a..z} | grep -v °° | tr " " "\n" 
