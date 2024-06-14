@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty | cut -f | tr " " "\n" 
+find . -empty | cut -d | tr " " "\n" 
