@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -f -name "*." |find . -type -d -name | tr " " "\n"
+find . -empty -f -name "*." |find . -empty -d -name | tr " " "\n"
